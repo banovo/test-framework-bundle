@@ -1,0 +1,12 @@
+{
+    "name": "banovo/test-framework-bundle",
+    "type": "symfony-bundle",
+    "description": "OroCRM Test Framework Bundle",
+    "keywords": ["OroCRM"],
+    "license": "MIT",
+    "require": {
+        "php": ">=5.3.3",
+        "symfony/symfony": "2.7.*",
+    },
+    "minimum-stability": "dev"
+}
